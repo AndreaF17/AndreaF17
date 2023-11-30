@@ -10,11 +10,11 @@ I've been interested in CS from the very beginning of my life. I started learnin
 
 My High School path in Italy was CS-focused and I learned a vast spectrum of knowledge from the basic understanding of how a PC works to programming in different languages, networking, building databases, and security. During my 4th year of high school, I went to Knoxville, Tennessee to do an exchange year in a foreign country, my host dad worked in a company as a penetration tester and he introduced me to the wonderful world of Cybersecurity, and I was mesmerized. 
 
-After High School, I started my bachelor's degree in CS to get all the basics done, (as a suggestion given by my host dad) during my last year I had to do an internship at [Cybergon](https://cybergon.com/) an Italian cybersecurity company for my B.S. where I had to write an essay of a project that they assigned to. 
+After High School, I started my bachelor's degree in CS at the [Univesity of Insubria](https://www.uninsubria.it/) to get all the basics done, (as a suggestion given by my host dad) during my last year I had to do a internship at [Cybergon](https://cybergon.com/) an Italian cybersecurity company for my B.S. where I had to write an essay of a project that they assigned to. 
 
 The project was implementing an on-premise distributed malware analysis system based on the Open-Source Project [CapeV2](https://github.com/kevoreilly/CAPEv2) which I contributed as well. At the end of my experience at CybergON, they offered me a job as I cybersecurity specialist and I decided to take the job as a part-time worker to manage to pursue my M.Sc. degree in cybersec. 
 
-Now I'm still working part-time at Cybergon as a BT and RT member while studying at UNIMI Master's Degree. My dream is to come back to the U.S. to work in cybersecurity. I'm studying as well for some HTB Certificates such as CPTS (Red Team) and CDSA (Blue Team). I have my home lab where I like to do some fun projects for example with AD and Kubernetes.
+Now I'm still working part-time at Cybergon as a BT and RT member while studying at the [University of Milan](https://www.unimi.it/). My dream is to come back to the U.S. to work in cybersecurity. I'm studying as well for some HTB Certificates such as CPTS (Red Team) and CDSA (Blue Team). I have my home lab where I like to do some fun projects for example with AD and Kubernetes.
 
 * 🌍  I'm based in Varese, Italy
 * 🖥️  See my portfolio at [My Portfolio](http://ferrario.dev)
