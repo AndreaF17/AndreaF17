@@ -6,15 +6,19 @@ Cybersecurity Specialist
 
 I'm an Italian guy interested in Cyber-Sec, Networking, and developing software. 
 
-I've been interested in CS from the very beginning of my life. I started learning it in middle school as self-taught from the basics of HTML. 
+From a young age, I was captivated by the world of computers. My journey commenced in middle school, where I embarked on a self-taught exploration of HTML. This initial spark ignited a lifelong passion for Computer Science.
 
-My High School path in Italy was CS-focused and I learned a vast spectrum of knowledge from the basic understanding of how a PC works to programming in different languages, networking, building databases, and security. During my 4th year of high school, I went to Knoxville, Tennessee to do an exchange year in a foreign country, my host dad worked in a company as a penetration tester and he introduced me to the wonderful world of Cybersecurity, and I was mesmerized. 
+In pursuit of my passion, I pursued a high school education in Italy with a specialized focus on Computer Science. Over the years, I garnered a comprehensive understanding, ranging from the fundamentals of PC operations to proficiency in multiple programming languages, networking protocols, database architecture, and cybersecurity principles.
 
-After High School, I started my bachelor's degree in CS at the [Univesity of Insubria](https://www.uninsubria.it/) to get all the basics done, (as a suggestion given by my host dad) during my last year I had to do a internship at [Cybergon](https://cybergon.com/) an Italian cybersecurity company for my B.S. where I had to write an essay of a project that they assigned to. 
+A pivotal moment in my journey occurred during a transformative exchange year in Knoxville, Tennessee. It was there that I had the privilege of being mentored by a seasoned professional in cybersecurity (my host dad). Introduced to the fascinating realm of penetration testing, I was enthralled by its complexities and challenges.
 
-The project was implementing an on-premise distributed malware analysis system based on the Open-Source Project [CapeV2](https://github.com/kevoreilly/CAPEv2) which I contributed as well. At the end of my experience at CybergON, they offered me a job as I cybersecurity specialist and I decided to take the job as a part-time worker to manage to pursue my M.Sc. degree in cybersec. 
+I pursued a Bachelor's degree in Computer Science at the [Univesity of Insubria](https://www.uninsubria.it/) (Following the advice host dad). During my final year I engaged in an internship at [Cybergon](https://cybergon.com/), an esteemed Italian cybersecurity company. Here, I undertook a significant project: the implementation of an on-premise distributed malware analysis system, leveraging the Open-Source Project [CapeV2](https://github.com/kevoreilly/CAPEv2). Upon the culmination of my internship, I was offered a position as a cybersecurity specialist.
 
-Now I'm still working part-time at Cybergon as a BT and RT member while studying at the [University of Milan](https://www.unimi.it/). My dream is to come back to the U.S. to work in cybersecurity. I'm studying as well for some HTB Certificates such as CPTS (Red Team) and CDSA (Blue Team). I have my home lab where I like to do some fun projects for example with AD and Kubernetes.
+Driven by a thirst for knowledge and a commitment, I embarked on a part-time journey at Cybergon while pursuing a Master's degree in Cybersecurity at the [University of Milan](https://www.unimi.it/). This dual commitment has allowed me to integrate theoretical insights with practical experiences, honing my skills in both offensive (Red Team) and defensive (Blue Team) strategies.
+
+As I continue to evolve professionally, I am actively pursuing certifications such as [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist) (Red Team) and [CDSA](https://academy.hackthebox.com/preview/certifications/htb-certified-defensive-security-analyst) (Blue Team) from [HTB](https://academy.hackthebox.com), further enriching my expertise in the field. Moreover, I devote time to personal projects in my home lab, exploring advanced topics like Active Directory and Kubernetes, which serve as both learning opportunities and avenues for innovation.
+
+Looking ahead, my aspiration is to return to the United States and contribute to the dynamic landscape of cybersecurity. I am excited about the prospect of leveraging my diverse skill set and experiences to tackle complex challenges and drive impactful solutions in this ever-evolving field.
 
 * 🌍  I'm based in Varese, Italy
 * 🖥️  See my portfolio at [My Portfolio](http://ferrario.dev)
