@@ -22,7 +22,7 @@ Looking ahead, my aspiration is to return to the United States and contribute to
 
 * 🌍  I'm based in Varese, Italy
 * 🖥️  See my portfolio at [My Portfolio](http://ferrario.dev)
-* ✉️  You can contact me at [andre.ferrario@ferrario.dev](mailto:andre.ferrario@ferrario.dev)
+* ✉️  You can contact me at [andrea@ferrario.dev](mailto:andrea@ferrario.dev)
 * 🧠  I'm learning PT Testing Process and getting my M.Sc. in Cybersec
 * 🤝  I'm open to collaborating on CyberSEC projects
 
